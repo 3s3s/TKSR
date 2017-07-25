@@ -115,7 +115,7 @@ void setupAddressWidget(QValidatedLineEdit *widget, QWidget *parent)
 #if QT_VERSION >= 0x040700
     // We don't want translators to use own addresses in translations
     // and this is the only place, where this address is supplied.
-    widget->setPlaceholderText(QObject::tr("Enter a Marycoin address (e.g. %1)").arg("MNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L"));
+    widget->setPlaceholderText(QObject::tr("Enter a Takser Token address (e.g. %1)").arg("TNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L"));
 #endif
     widget->setValidator(new BitcoinAddressEntryValidator(parent));
     widget->setCheckValidator(new BitcoinAddressCheckValidator(parent));
@@ -132,8 +132,8 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
-    // return if URI is not valid or is no marycoin: URI
-    if(!uri.isValid() || uri.scheme() != QString("marycoin"))
+    // return if URI is not valid or is no tksr: URI
+    if(!uri.isValid() || uri.scheme() != QString("tksr"))
         return false;
 
     SendCoinsRecipient rv;
@@ -193,13 +193,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert marycoin:// to marycoin:
+    // Convert tksr:// to tksr:
     //
-    //    Cannot handle this later, because marycoin:// will cause Qt to see the part after // as host,
+    //    Cannot handle this later, because tksr:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("marycoin://", Qt::CaseInsensitive))
+    if(uri.startsWith("tksr://", Qt::CaseInsensitive))
     {
-        uri.replace(0, 10, "marycoin:");
+        uri.replace(0, 10, "tksr:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -207,7 +207,7 @@ bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 
 QString formatBitcoinURI(const SendCoinsRecipient &info)
 {
-    QString ret = QString("marycoin:%1").arg(info.address);
+    QString ret = QString("tksr:%1").arg(info.address);
     int paramCount = 0;
 
     if (info.amount)
@@ -591,15 +591,15 @@ boost::filesystem::path static StartupShortcutPath()
 {
     std::string chain = ChainNameFromCommandLine();
     if (chain == CBaseChainParams::MAIN)
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Marycoin.lnk";
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "TKSR.lnk";
     if (chain == CBaseChainParams::TESTNET) // Remove this special case when CBaseChainParams::TESTNET = "testnet4"
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Marycoin (testnet).lnk";
-    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("Marycoin (%s).lnk", chain);
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "TKSR (testnet).lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / strprintf("TKSR (%s).lnk", chain);
 }
 
 bool GetStartOnSystemStartup()
 {
-    // check for Marycoin*.lnk
+    // check for TKSR*.lnk
     return boost::filesystem::exists(StartupShortcutPath());
 }
 
@@ -691,8 +691,8 @@ boost::filesystem::path static GetAutostartFilePath()
 {
     std::string chain = ChainNameFromCommandLine();
     if (chain == CBaseChainParams::MAIN)
-        return GetAutostartDir() / "marycoin.desktop";
-    return GetAutostartDir() / strprintf("marycoin-%s.lnk", chain);
+        return GetAutostartDir() / "tksr.desktop";
+    return GetAutostartDir() / strprintf("tksr-%s.lnk", chain);
 }
 
 bool GetStartOnSystemStartup()
@@ -731,13 +731,13 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         if (!optionFile.good())
             return false;
         std::string chain = ChainNameFromCommandLine();
-        // Write a marycoin.desktop file to the autostart directory:
+        // Write a tksr.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
         if (chain == CBaseChainParams::MAIN)
-            optionFile << "Name=Marycoin\n";
+            optionFile << "Name=tksr\n";
         else
-            optionFile << strprintf("Name=Marycoin (%s)\n", chain);
+            optionFile << strprintf("Name=tksr (%s)\n", chain);
         optionFile << "Exec=" << pszExePath << strprintf(" -min -testnet=%d -regtest=%d\n", GetBoolArg("-testnet", false), GetBoolArg("-regtest", false));
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
@@ -756,7 +756,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
 LSSharedFileListItemRef findStartupItemInList(LSSharedFileListRef list, CFURLRef findUrl);
 LSSharedFileListItemRef findStartupItemInList(LSSharedFileListRef list, CFURLRef findUrl)
 {
-    // loop through the list of startup items and try to find the marycoin app
+    // loop through the list of startup items and try to find the Takser Token app
     CFArrayRef listSnapshot = LSSharedFileListCopySnapshot(list, NULL);
     for(int i = 0; i < CFArrayGetCount(listSnapshot); i++) {
         LSSharedFileListItemRef item = (LSSharedFileListItemRef)CFArrayGetValueAtIndex(listSnapshot, i);
@@ -801,7 +801,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
     LSSharedFileListItemRef foundItem = findStartupItemInList(loginItems, bitcoinAppUrl);
 
     if(fAutoStart && !foundItem) {
-        // add marycoin app to startup item list
+        // add Takser Token app to startup item list
         LSSharedFileListInsertItemURL(loginItems, kLSSharedFileListItemBeforeFirst, NULL, NULL, bitcoinAppUrl, NULL, NULL);
     }
     else if(!fAutoStart && foundItem) {

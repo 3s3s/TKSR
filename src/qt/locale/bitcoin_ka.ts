@@ -62,12 +62,12 @@
         <translation>მიღების მისამართი</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ეს არის თქვენი Marycoin-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>ეს არის თქვენი Takser Token-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>ეს არის თქვენი Marycoin-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>ეს არის თქვენი Takser Token-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -286,8 +286,8 @@
         <translation>დისკზე ბლოკების რეინდექსაცია...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>მონეტების გაგზავნა Marycoin-მისამართზე</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>მონეტების გაგზავნა Takser Token-მისამართზე</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -310,8 +310,8 @@
         <translation>&amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -338,12 +338,12 @@
         <translation>თქვენი საფულის პირადი გასაღებების დაშიფრვა</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>მესიჯებზე ხელმოწერა თქვენი Marycoin-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>მესიჯებზე ხელმოწერა თქვენი Takser Token-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Marycoin-მისამართით</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Takser Token-მისამართით</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -362,16 +362,16 @@
         <translation>ბარათების პანელი</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და marycoin: ბმულები)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და tksr: ბმულები)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Marycoin Core-ს შეს&amp;ახებ</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Takser Token Core-ს შეს&amp;ახებ</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -382,16 +382,16 @@
         <translation>გამოყენებული მიღების მისამართებისა და ნიშნულების სიის ჩვენება</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>marycoin: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>tksr: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>საკომანდო სტრიქონის ოპ&amp;ციები</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Marycoin Core-ს დახმარების ჩვენება Marycoin-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Takser Token Core-ს დახმარების ჩვენება Takser Token-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -687,8 +687,8 @@
         <translation>მისამართი "%1" უკვე არის მისამართების წიგნში.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>შეყვანილი მისამართი "%1" არ არის ვალიდური Marycoin-მისამართი.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>შეყვანილი მისამართი "%1" არ არის ვალიდური Takser Token-მისამართი.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -725,16 +725,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>ვერსია</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Marycoin Core-ს შესახებ</translation>
+        <source>About Takser Token Core</source>
+        <translation>Takser Token Core-ს შესახებ</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -756,16 +756,16 @@
         <translation>მოგესალმებით</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>მოგესალმებათ Marycoin Core.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>მოგესალმებათ Takser Token Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Marycoin Core will store its data.</source>
-        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Marycoin Core-მ.</translation>
+        <source>As this is the first time the program is launched, you can choose where Takser Token Core will store its data.</source>
+        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Takser Token Core-მ.</translation>
     </message>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Marycoin Core გადმოტვირთავს და შეინახავს Marycoin-ის ბლოკთა ჯაჭვს. მითითებულ კატალოგში დაგროვდება სულ ცოტა %1 გბ მონაცემები, და მომავალში უფრო გაიზრდება. საფულეც ამავე კატალოგში შეინახება.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Takser Token Core გადმოტვირთავს და შეინახავს Takser Token-ის ბლოკთა ჯაჭვს. მითითებულ კატალოგში დაგროვდება სულ ცოტა %1 გბ მონაცემები, და მომავალში უფრო გაიზრდება. საფულეც ამავე კატალოგში შეინახება.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -776,8 +776,8 @@
         <translation>მითითებული კატალოგის გამოყენება:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -858,8 +858,8 @@
         <translation>დაუდასტურებელი ხურდის გამოყენების აკრძალვის შემდეგ მათი გამოყენება შეუძლებელი იქნება, სანამ ტრანსაქციას არ ექნება ერთი დასტური მაინც. ეს აისახება თქვენი ნაშთის დათვლაზეც.</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>როუტერში Marycoin-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>როუტერში Takser Token-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -953,8 +953,8 @@
         <translation>ფორმა</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Marycoin-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Takser Token-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1008,8 +1008,8 @@
         <translation>გადახდის მოთხოვნის შეცდომა</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
-        <translation>ვერ გაიშვა marycoin: click-to-pay</translation>
+        <source>Cannot start tksr: click-to-pay handler</source>
+        <translation>ვერ გაიშვა tksr: click-to-pay</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1231,7 +1231,7 @@
         <translation>ად&amp;რე გამოყენებული მიღების მისამართის გამოყენება (არ არის რეკომენდებული)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Marycoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Takser Token network.</source>
         <translation>არააუცილებელი მესიჯი, რომელიც ერთვის გადახდის მოთხოვნას და ნაჩვენები იქნება მოთხოვნის გახსნისას. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1528,8 +1528,8 @@
         <translation>ტრანსაქცია უარყოფილია! შესაძლოა მონეტების ნაწილი თქვენი საფულიდან უკვე გამოყენებულია, რაც შეიძლება მოხდეს wallet.dat-ის ასლის გამოყენებისას, როცა მონეტები გაიგზავნა სხვა ასლიდან, აქ კი არ არის გაგზავნილად მონიშნული.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>ყურადღება: არასწორია Marycoin-მისამართი</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>ყურადღება: არასწორია Takser Token-მისამართი</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1599,7 +1599,7 @@
         <translation>შეიყვანეთ ამ მისამართის ნიშნული გამოყენებული მისამართების სიაში დასამატებლად</translation>
     </message>
     <message>
-        <source>A message that was attached to the marycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Marycoin network.</source>
+        <source>A message that was attached to the tksr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Takser Token network.</source>
         <translation>მესიჯი, რომელიც თან ერთვის მონეტებს:  URI, რომელიც შეინახება ტრანსაქციასთან ერთად თქვენთვის. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1614,8 +1614,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>Marycoin Core იხურება...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>Takser Token Core იხურება...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1661,7 +1661,7 @@
         <translation>მიმდინარე ხელმოწერის კოპირება კლიპბორდში</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
+        <source>Sign the message to prove you own this Takser Token address</source>
         <translation>მოაწერეთ ხელი იმის დასადასტურებლად, რომ ეს მისამართი თქვენია</translation>
     </message>
     <message>
@@ -1681,8 +1681,8 @@
         <translation>მესიჯის &amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
-        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Marycoin-მისამართით</translation>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
+        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Takser Token-მისამართით</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1748,12 +1748,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Marycoin Core-ს ავტორები</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Takser Token Core-ს ავტორები</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2188,7 +2188,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>ოპციები:</translation>

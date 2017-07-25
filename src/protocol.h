@@ -66,7 +66,7 @@ public:
 };
 
 /**
- * Marycoin protocol message types. When adding new message types, don't forget
+ * Takser Token protocol message types. When adding new message types, don't forget
  * to update allNetMessageTypes in protocol.cpp.
  */
 namespace NetMsgType {
@@ -227,15 +227,15 @@ const std::vector<std::string> &getAllNetMessageTypes();
 /** nServices flags */
 enum {
     // NODE_NETWORK means that the node is capable of serving the block chain. It is currently
-    // set by all Marycoin Core nodes, and is unset by SPV clients or other peers that just want
+    // set by all Takser Token Core nodes, and is unset by SPV clients or other peers that just want
     // network services but don't provide them.
     NODE_NETWORK = (1 << 0),
     // NODE_GETUTXO means the node is capable of responding to the getutxo protocol request.
-    // Marycoin Core does not support this but a patch set called Marycoin XT does.
+    // Takser Token Core does not support this but a patch set called Takser Token XT does.
     // See BIP 64 for details on how this is implemented.
     NODE_GETUTXO = (1 << 1),
     // NODE_BLOOM means the node is capable and willing to handle bloom-filtered connections.
-    // Marycoin Core nodes used to support this by default, without advertising this bit,
+    // Takser Token Core nodes used to support this by default, without advertising this bit,
     // but no longer do as of protocol version 70011 (= NO_BLOOM_VERSION)
     NODE_BLOOM = (1 << 2),
 

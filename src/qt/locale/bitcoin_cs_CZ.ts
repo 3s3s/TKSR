@@ -158,8 +158,8 @@
         <translation>Změnit heslo k šifrování peněženky</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -648,7 +648,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Možnosti:</translation>

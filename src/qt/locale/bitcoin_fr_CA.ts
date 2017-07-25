@@ -232,6 +232,6 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     </context>
 </TS>

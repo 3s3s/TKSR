@@ -66,12 +66,12 @@
         <translation>S'estan rebent les adreces</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les vostres adreces de Marycoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les vostres adreces de Takser Token per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les vostres adreces Marycoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les vostres adreces Takser Token per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -168,8 +168,8 @@
         <translation>Esteu segur que voleu encriptar el vostre moneder?</translation>
     </message>
     <message>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Ara es tancarà el Marycoin Core per finalitzar el procés d'encriptació. Tingueu present que encriptar el vostre moneder no garanteix que les vostres bitcoins no puguin ser robades per programari maliciós que infecti l'ordinador.</translation>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Ara es tancarà el Takser Token Core per finalitzar el procés d'encriptació. Tingueu present que encriptar el vostre moneder no garanteix que les vostres bitcoins no puguin ser robades per programari maliciós que infecti l'ordinador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -306,8 +306,8 @@
         <translation>Obre un &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Client del Marycoin Core</translation>
+        <source>Takser Token Core client</source>
+        <translation>Client del Takser Token Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -318,8 +318,8 @@
         <translation>S'estan reindexant els blocs al disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Envia monedes a una adreça Marycoin</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Envia monedes a una adreça Takser Token</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>&amp;Verifica el missatge...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Rep</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Mostra informació del Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Mostra informació del Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -374,12 +374,12 @@
         <translation>Encripta les claus privades pertanyents al moneder</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Marycoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Takser Token per provar que les poseeixes</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Marycoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Takser Token específica.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,20 +398,20 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Nucli de Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Nucli de Takser Token</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i marycoin: URI)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i tksr: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;Quant al Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;Quant al Takser Token Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
-        <translation>Modifica les opcions de configuració del Marycoin Core</translation>
+        <source>Modify configuration options for Takser Token Core</source>
+        <translation>Modifica les opcions de configuració del Takser Token Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,20 +422,20 @@
         <translation>Mostra la llista d'adreces de recepció i etiquetes utilitzades</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>Obre una marycoin: sol·licitud d'URI o pagament</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>Obre una tksr: sol·licitud d'URI o pagament</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcions de la &amp;línia d'ordres</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Mostra el missatge d'ajuda del Marycoin Core per obtenir una llista amb les possibles opcions de línia d'ordres de Marycoin</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Mostra el missatge d'ajuda del Takser Token Core per obtenir una llista amb les possibles opcions de línia d'ordres de Takser Token</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Marycoin</numerusform><numerusform>%n connexions actives a la xarxa Marycoin</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Takser Token</numerusform><numerusform>%n connexions actives a la xarxa Takser Token</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -817,8 +817,8 @@
         <translation>L'adreça introduïda «%1» ja és present a la llibreta d'adreces.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de Marycoin vàlida.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>L'adreça introduïda «%1» no és una adreça de Takser Token vàlida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -855,8 +855,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Nucli de Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Nucli de Takser Token</translation>
     </message>
     <message>
         <source>version</source>
@@ -867,8 +867,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Quant al Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Quant al Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -918,16 +918,16 @@
         <translation>Us donem la benviguda</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Us donem la benvinguda al Marycoin Core.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Us donem la benvinguda al Takser Token Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Marycoin Core will store its data.</source>
-        <translation>Atès que és la primera vegada que executeu el programa, podeu triar on emmagatzemarà el Marycoin Core les dades.</translation>
+        <source>As this is the first time the program is launched, you can choose where Takser Token Core will store its data.</source>
+        <translation>Atès que és la primera vegada que executeu el programa, podeu triar on emmagatzemarà el Takser Token Core les dades.</translation>
     </message>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>El Marycoin Core descarregarà i emmagatzemarà una còpia de la cadena de blocs de Marycoin. Com a mínim s'emmagatzemaran %1 GB de dades en aquest directori, que seguiran creixent gradualment. També s'hi emmagatzemarà el moneder.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>El Takser Token Core descarregarà i emmagatzemarà una còpia de la cadena de blocs de Takser Token. Com a mínim s'emmagatzemaran %1 GB de dades en aquest directori, que seguiran creixent gradualment. També s'hi emmagatzemarà el moneder.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -938,8 +938,8 @@
         <translation>Utilitza un directori de dades personalitzat:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Nucli de Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Nucli de Takser Token</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1020,8 +1020,8 @@
         <translation>Minimitza en comptes de sortir de l'aplicació quan la finestra es tanca. Quan s'habilita aquesta opció l'aplicació es tancara només quan se selecciona Surt del menú. </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Marycoin Core.</source>
-        <translation>La interfície d'usuari pot definir-se des d'aquí. El paràmetre tindrà efecte després de reiniciar el Marycoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Takser Token Core.</source>
+        <translation>La interfície d'usuari pot definir-se des d'aquí. El paràmetre tindrà efecte després de reiniciar el Takser Token Core.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1048,12 +1048,12 @@
         <translation>&amp;Xarxa</translation>
     </message>
     <message>
-        <source>Automatically start Marycoin Core after logging in to the system.</source>
-        <translation>Inicia el Marycoin Core automàticament després d'iniciar una sessió en el sistema.</translation>
+        <source>Automatically start Takser Token Core after logging in to the system.</source>
+        <translation>Inicia el Takser Token Core automàticament després d'iniciar una sessió en el sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Marycoin Core on system login</source>
-        <translation>&amp;Inicia el Marycoin Core en inciar el sistema</translation>
+        <source>&amp;Start Takser Token Core on system login</source>
+        <translation>&amp;Inicia el Takser Token Core en inciar el sistema</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1080,16 +1080,16 @@
         <translation>&amp;Gasta el canvi sense confirmar</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obre el port del client de Marycoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obre el port del client de Takser Token al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Port obert amb &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Marycoin network through a SOCKS5 proxy.</source>
-        <translation>Connecta a la xarxa Marycoin a través d'un proxy SOCKS5.</translation>
+        <source>Connect to the Takser Token network through a SOCKS5 proxy.</source>
+        <translation>Connecta a la xarxa Takser Token a través d'un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1128,8 +1128,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Marycoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conectar a la red de Marycoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
+        <source>Connect to the Takser Token network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Conectar a la red de Takser Token a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1215,8 +1215,8 @@
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Marycoin un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Takser Token un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1314,16 +1314,16 @@
         <translation>Error en la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
-        <translation>No es pot iniciar marycoin: gestor clica-per-pagar</translation>
+        <source>Cannot start tksr: click-to-pay handler</source>
+        <translation>No es pot iniciar tksr: gestor clica-per-pagar</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>L'URL de recuperació de la sol·licitud de pagament no és vàlida: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Marycoin address or malformed URI parameters.</source>
-        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Marycoin no vàlida o per paràmetres URI amb mal format.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Takser Token address or malformed URI parameters.</source>
+        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Takser Token no vàlida o per paràmetres URI amb mal format.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1396,8 +1396,8 @@
         <translation>Import</translation>
     </message>
     <message>
-        <source>Enter a Marycoin address (e.g. %1)</source>
-        <translation>Introduïu una adreça de Marycoin (p. ex. %1)</translation>
+        <source>Enter a Takser Token address (e.g. %1)</source>
+        <translation>Introduïu una adreça de Takser Token (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1510,8 +1510,8 @@
         <translation>Us de memoria</translation>
     </message>
     <message>
-        <source>Open the Marycoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obre el fitxer de registre de depuració del Marycoin Core del directori de dades actual. Pot portar uns quants segons per a fitxers de registre grans.</translation>
+        <source>Open the Takser Token Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obre el fitxer de registre de depuració del Takser Token Core del directori de dades actual. Pot portar uns quants segons per a fitxers de registre grans.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1670,8 +1670,8 @@
         <translation>&amp;Desbandeja el node</translation>
     </message>
     <message>
-        <source>Welcome to the Marycoin Core RPC console.</source>
-        <translation>Us donem la benviguda a la consola RPC del Marycoin Core.</translation>
+        <source>Welcome to the Takser Token Core RPC console.</source>
+        <translation>Us donem la benviguda a la consola RPC del Takser Token Core.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1753,8 +1753,8 @@
         <translation>R&amp;eutilitza una adreça de recepció anterior (no recomanat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Marycoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Marycoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Takser Token network.</source>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Takser Token.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1986,7 +1986,7 @@
         <translation>total com a mínim</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for marycoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Takser Token transactions than the network can process.</source>
         <translation>No hi ha cap problema en pagar només la comissió mínima sempre que hi hagi menys volum de transacció que espai en els blocs. Però tingueu present que això pot acabar en una transacció que mai es confirmi una vegada hi hagi més demanda de transaccions de bitcoins que la xarxa pugui processar.</translation>
     </message>
     <message>
@@ -2146,8 +2146,8 @@
         <translation>S'ha trobat una adreça duplicada: cal utilitzar les adreces només un cop cada vegada.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Avís: adreça Marycoin no vàlida</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Avís: adreça Takser Token no vàlida</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2197,8 +2197,8 @@
         <translation>Això és un pagament normal.</translation>
     </message>
     <message>
-        <source>The Marycoin address to send the payment to</source>
-        <translation>L'adreça Marycoin on enviar el pagament</translation>
+        <source>The Takser Token address to send the payment to</source>
+        <translation>L'adreça Takser Token on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2241,8 +2241,8 @@
         <translation>Introduïu una etiqueta per a aquesta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the marycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Marycoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al marycoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Marycoin.</translation>
+        <source>A message that was attached to the tksr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Takser Token network.</source>
+        <translation>Un missatge que s'ha adjuntat al tksr: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Takser Token.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2256,8 +2256,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>S'està aturant el Marycoin Core...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>S'està aturant el Takser Token Core...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2279,8 +2279,8 @@
         <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les bitcoins que s'hi envien. Aneu amb compte no signar res que sigui vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
     </message>
     <message>
-        <source>The Marycoin address to sign the message with</source>
-        <translation>L'adreça Marycoin amb què signar el missatge</translation>
+        <source>The Takser Token address to sign the message with</source>
+        <translation>L'adreça Takser Token amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2311,8 +2311,8 @@
         <translation>Copia la signatura actual al porta-retalls del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Marycoin</translation>
+        <source>Sign the message to prove you own this Takser Token address</source>
+        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Takser Token</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2335,12 +2335,12 @@
         <translation>Introduïu l'adreça del receptor, el missatge (assegureu-vos de copiar els salts de línia, espais, tabuladors, etc. exactament) i signatura de sota per verificar el missatge. Tingueu cura de no llegir més en la signatura del que està al missatge signat, per evitar ser enganyat per un atac d'home-en-el-mig. Tingueu en compte que això només demostra que la part que signa rep amb l'adreça, i no es pot provar l'enviament de qualsevol transacció!</translation>
     </message>
     <message>
-        <source>The Marycoin address the message was signed with</source>
-        <translation>L'adreça Marycoin amb què va ser signat el missatge</translation>
+        <source>The Takser Token address the message was signed with</source>
+        <translation>L'adreça Takser Token amb què va ser signat el missatge</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Marycoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Takser Token específica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2406,12 +2406,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Els desenvolupadors del Marycoin Core</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Els desenvolupadors del Takser Token Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2894,7 +2894,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opcions:</translation>
@@ -2956,8 +2956,8 @@
         <translation>Aquesta és una versió de pre-llançament - utilitza-la sota la teva responsabilitat - No usar per a minería o aplicacions de compra-venda</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Marycoin Core is probably already running.</source>
-        <translation>No es pot enllaçar %s a aquest ordinador. El Marycoin Core probablement ja estigui executant-s'hi.</translation>
+        <source>Unable to bind to %s on this computer. Takser Token Core is probably already running.</source>
+        <translation>No es pot enllaçar %s a aquest ordinador. El Takser Token Core probablement ja estigui executant-s'hi.</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
@@ -3120,8 +3120,8 @@
         <translation>Vincula a l'adreça donada per a escoltar les connexions JSON-RPC. Feu servir la notació [host]:port per a IPv6. Aquesta opció pot ser especificada moltes vegades (per defecte: vincula a totes les interfícies)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Marycoin Core is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig del directori de dades %s. El Marycoin Core probablement ja s'estigui executant.</translation>
+        <source>Cannot obtain a lock on data directory %s. Takser Token Core is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig del directori de dades %s. El Takser Token Core probablement ja s'estigui executant.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3204,12 +3204,12 @@
         <translation>Connecta a través del proxy SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Marycoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i Els desenvolupadors del Marycoin Core</translation>
+        <source>Copyright (C) 2009-%i The Takser Token Core Developers</source>
+        <translation>Copyright (C) 2009-%i Els desenvolupadors del Takser Token Core</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Marycoin Core</source>
-        <translation>Error en carregar wallet.dat: el moneder requereix una versió més nova del Marycoin core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Takser Token Core</source>
+        <translation>Error en carregar wallet.dat: el moneder requereix una versió més nova del Takser Token core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3220,8 +3220,8 @@
         <translation>&amp;Informació</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Marycoin Core is shutting down.</source>
-        <translation>Ha fallat la inicialització de la comprovació de validesa. El Marycoin Core s'està aturant.</translation>
+        <source>Initialization sanity check failed. Takser Token Core is shutting down.</source>
+        <translation>Ha fallat la inicialització de la comprovació de validesa. El Takser Token Core s'està aturant.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3320,8 +3320,8 @@
         <translation>Nom d'usuari per a connexions JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Marycoin Core to complete</source>
-        <translation>Cal reescriure el moneder: reiniceu el Marycoin Core per completar-ho.</translation>
+        <source>Wallet needed to be rewritten: restart Takser Token Core to complete</source>
+        <translation>Cal reescriure el moneder: reiniceu el Takser Token Core per completar-ho.</translation>
     </message>
     <message>
         <source>Warning</source>

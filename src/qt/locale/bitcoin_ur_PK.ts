@@ -376,7 +376,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>This help message</source>
         <translation>یہ مدد کا پیغام</translation>

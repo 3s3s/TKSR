@@ -104,7 +104,7 @@
         <translation>收款人地址无效，请再次确认。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
+        <source>Warning: Invalid Takser Token address</source>
         <translation>警告：比特币地址无效</translation>
     </message>
     </context>
@@ -160,7 +160,7 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Transaction amounts must be positive</source>
         <translation>转账额度须为正数</translation>

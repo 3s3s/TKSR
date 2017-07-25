@@ -756,7 +756,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Marycoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Takser Token address"));
         }
         else // Valid address
         {

@@ -14,12 +14,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Jezrga</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Jezrga</translation>
     </message>
     </context>
 <context>
@@ -37,15 +37,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Jezrga</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Jezrga</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Jezrga</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Jezrga</translation>
     </message>
     </context>
 <context>
@@ -112,8 +112,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Jezrga</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Jezrga</translation>
     </message>
     </context>
 <context>
@@ -164,6 +164,6 @@
     <name>WalletView</name>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     </context>
 </TS>

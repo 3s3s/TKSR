@@ -99,8 +99,8 @@ namespace boost {
 
 using namespace std;
 
-const char * const BITCOIN_CONF_FILENAME = "marycoin.conf";
-const char * const BITCOIN_PID_FILENAME = "marycoind.pid";
+const char * const BITCOIN_CONF_FILENAME = "tksr.conf";
+const char * const BITCOIN_PID_FILENAME = "tksrd.pid";
 
 map<string, string> mapArgs;
 map<string, vector<string> > mapMultiArgs;
@@ -435,7 +435,7 @@ static std::string FormatException(const std::exception* pex, const char* pszThr
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "marycoin";
+    const char* pszModule = "tksr";
 #endif
     if (pex)
         return strprintf(
@@ -455,13 +455,13 @@ void PrintExceptionContinue(const std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Marycoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Marycoin
-    // Mac: ~/Library/Application Support/Marycoin
-    // Unix: ~/.marycoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\tksr
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\tksr
+    // Mac: ~/Library/Application Support/tksr
+    // Unix: ~/.tksr
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Marycoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "TakserToken";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -471,10 +471,10 @@ boost::filesystem::path GetDefaultDataDir()
         pathRet = fs::path(pszHome);
 #ifdef MAC_OSX
     // Mac
-    return pathRet / "Library/Application Support/Marycoin";
+    return pathRet / "Library/Application Support/TakserToken";
 #else
     // Unix
-    return pathRet / ".marycoin";
+    return pathRet / ".taksertoken";
 #endif
 #endif
 }

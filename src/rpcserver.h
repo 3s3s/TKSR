@@ -123,7 +123,7 @@ public:
 };
 
 /**
- * Marycoin RPC command dispatcher.
+ * Takser Token RPC command dispatcher.
  */
 class CRPCTable
 {

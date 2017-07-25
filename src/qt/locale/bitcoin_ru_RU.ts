@@ -58,12 +58,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>О Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>О Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -125,16 +125,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>версия</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>О Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>О Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -148,8 +148,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -220,8 +220,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     </context>
 <context>
@@ -280,7 +280,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Information</source>
         <translation>Информация</translation>

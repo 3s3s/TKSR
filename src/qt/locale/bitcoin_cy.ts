@@ -214,8 +214,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -230,8 +230,8 @@
         <translation>&amp;Derbyn</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Dangos gwybodaeth am Graidd Marycoin</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Dangos gwybodaeth am Graidd Takser Token</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -254,12 +254,12 @@
         <translation>Bar offer tabiau</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Craidd Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Craidd Takser Token</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;Ynghylch Craidd Marycoin</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;Ynghylch Craidd Takser Token</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -425,12 +425,12 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Craidd Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Craidd Takser Token</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Ynghylch Craidd Marycoin</translation>
+        <source>About Takser Token Core</source>
+        <translation>Ynghylch Craidd Takser Token</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -444,12 +444,12 @@
         <translation>Croeso</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Croeso i Graidd Marycoin</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Croeso i Graidd Takser Token</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Craidd Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Craidd Takser Token</translation>
     </message>
     <message>
         <source>Error</source>
@@ -664,12 +664,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Craidd Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>Craidd Takser Token</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Datblygwyr Graidd Marycoin</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Datblygwyr Graidd Takser Token</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -776,7 +776,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opsiynau:</translation>

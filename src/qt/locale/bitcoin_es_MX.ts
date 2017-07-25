@@ -62,12 +62,12 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Marycoin para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones de Takser Token para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Marycoin para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones Takser Token para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -270,8 +270,8 @@
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>cliente Marycoin Core</translation>
+        <source>Takser Token Core client</source>
+        <translation>cliente Takser Token Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -282,8 +282,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Enviar monedas a una dirección Marycoin</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Enviar monedas a una dirección Takser Token</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -306,8 +306,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -338,20 +338,20 @@
         <translation>Pestañas</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>nucleo Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>nucleo Takser Token</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Acerca de Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Acerca de Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>opciones de la &amp;Linea de comandos</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Mostrar mensaje de ayuda del nucleo de Marycoin para optener una lista con los posibles comandos  de Marycoin</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Mostrar mensaje de ayuda del nucleo de Takser Token para optener una lista con los posibles comandos  de Takser Token</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -505,8 +505,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>nucleo Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>nucleo Takser Token</translation>
     </message>
     <message>
         <source>version</source>
@@ -517,8 +517,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Acerca de Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Acerca de Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -536,8 +536,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>nucleo Marycoin</translation>
+        <source>Takser Token Core</source>
+        <translation>nucleo Takser Token</translation>
     </message>
     </context>
 <context>
@@ -603,8 +603,8 @@
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Marycoin network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Marycoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Takser Token network.</source>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Takser Token.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -756,8 +756,8 @@
         <translation>¡La transación fue rechazada! Esto puede ocurrir si algunas de tus monedas en tu cartera han sido gastadas, al igual que si usas una cartera copiada y la monedas fueron gastadas en la copia pero no se marcaron como gastadas.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Advertencia: Dirección de Marycoin invalida</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Advertencia: Dirección de Takser Token invalida</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -818,8 +818,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>Apagando el nucleo de Marycoin...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>Apagando el nucleo de Takser Token...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -848,12 +848,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Los desarrolladores de Marycoin Core</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Los desarrolladores de Takser Token Core</translation>
     </message>
     </context>
 <context>
@@ -1156,7 +1156,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opciones:</translation>

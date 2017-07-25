@@ -62,12 +62,12 @@
         <translation>Saņemšanas adreses</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Šīs ir jūsu Marycoin adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Šīs ir jūsu Takser Token adreses maksājumu sūtīšanai. Vienmēr  pārbaudiet summu un saņēmēja adresi pirms monētu sūtīšanas.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Šīs ir jūsu Marycoin adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Šīs ir jūsu Takser Token adreses maksājumu saņemšanai. Ir ieteicams katram darījumam izmantot jaunu saņemšanas adresi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -164,8 +164,8 @@
         <translation>Vai tu tiešām vēlies šifrēt savu maciņu?</translation>
     </message>
     <message>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Marycoin Core tiks aizvērts, lai pabeigtu šifrēšansa procesu. Atcerieties, ka jūsu maka šifrēšana nevar pilnībā pasargāt jūsu monētas no to nozagašanas, inficējot datoru ar ļaunprātīgām programmām.</translation>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Takser Token Core tiks aizvērts, lai pabeigtu šifrēšansa procesu. Atcerieties, ka jūsu maka šifrēšana nevar pilnībā pasargāt jūsu monētas no to nozagašanas, inficējot datoru ar ļaunprātīgām programmām.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -290,8 +290,8 @@
         <translation>Atvērt &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core klients</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core klients</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -302,8 +302,8 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Nosūtīt bitkoinus uz Marycoin adresi</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Nosūtīt bitkoinus uz Takser Token adresi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -326,8 +326,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -342,8 +342,8 @@
         <translation>&amp;Saņemt</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Parādīt informāciju par Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Parādīt informāciju par Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -358,12 +358,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Marycoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām Takser Token adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Marycoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Takser Token adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -382,20 +382,20 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un marycoin: URIs)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un tksr: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Par &amp;Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Par &amp;Takser Token Core</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>Atvērt marycoin URI vai maksājuma pieprasījumu</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>Atvērt Takser Token URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -671,8 +671,8 @@
         <translation>Nupat ierakstītā adrese "%1" jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>Ierakstītā adrese "%1" nav derīga Marycoin adrese.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>Ierakstītā adrese "%1" nav derīga Takser Token adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -705,8 +705,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -717,8 +717,8 @@
         <translation>(%1-biti)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Par Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Par Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -740,8 +740,8 @@
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Sveicināts Marycoin Core</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Sveicināts Takser Token Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -752,8 +752,8 @@
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -847,15 +847,15 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt marycoin &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt Takser Token &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Marycoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt Takser Token klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -907,7 +907,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Marycoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt Takser Token kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -941,8 +941,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Marycoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Takser Token tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -996,8 +996,8 @@
         <translation>Maksājumu pieprasījuma kļūda</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
-        <translation>Nevar palaist Marycoin: nospied-lai-maksātu apstrādātāju</translation>
+        <source>Cannot start tksr: click-to-pay handler</source>
+        <translation>Nevar palaist Takser Token: nospied-lai-maksātu apstrādātāju</translation>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1333,7 +1333,7 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Marycoin Kontroles Funkcijas</translation>
+        <translation>Takser Token Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1468,8 +1468,8 @@
         <translation>Transakcijas izveidošana neizdevās!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Brīdinājums: Nederīga Marycoin adrese</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Brīdinājums: Nederīga Takser Token adrese</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1542,8 +1542,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>Marycoin Core tiek izslēgta...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>Takser Token Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1589,8 +1589,8 @@
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Marycoin adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this Takser Token address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Takser Token adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1672,12 +1672,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Marycoin Core izstrādātāji</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Takser Token Core izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2096,7 +2096,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Iespējas:</translation>

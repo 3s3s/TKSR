@@ -66,12 +66,12 @@
         <translation>Қабул қилинадиган манзиллар</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Улар тўловларни жўнатиш учун сизнинг Marycoin манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Улар тўловларни жўнатиш учун сизнинг Takser Token манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Улар тўловларни қабул қилиш учун сизнинг Marycoin манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Улар тўловларни қабул қилиш учун сизнинг Takser Token манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -290,8 +290,8 @@
         <translation>Интернет манзилни очиш</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin асос мижози</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token асос мижози</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -302,8 +302,8 @@
         <translation>Дискдаги блоклар қайта индексланмоқда...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Тангаларни Marycoin манзилига жўнатиш</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Тангаларни Takser Token манзилига жўнатиш</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -326,8 +326,8 @@
         <translation>Хабарни &amp;тасдиқлаш...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -342,8 +342,8 @@
         <translation>&amp;Қабул қилиш</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Marycoin Core ҳақидаги маълумотларни кўрсатиш</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Takser Token Core ҳақидаги маълумотларни кўрсатиш</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -358,12 +358,12 @@
         <translation>Ҳамёнингизга тегишли махфий калитларни кодлаш</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Marycoin манзилидан унинг эгаси эканлигингизни исботлаш учун хабарлар ёзинг</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Takser Token манзилидан унинг эгаси эканлигингизни исботлаш учун хабарлар ёзинг</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Хабарларни махсус Marycoin манзилларингиз билан ёзилганлигига ишонч ҳосил қилиш учун уларни тасдиқланг</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Хабарларни махсус Takser Token манзилларингиз билан ёзилганлигига ишонч ҳосил қилиш учун уларни тасдиқланг</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -382,16 +382,16 @@
         <translation>Ички ойналар асбоблар панели</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Тўловлар (QR кодлари ва marycoin ёрдамида яратишлар: URI’лар) сўраш</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Тўловлар (QR кодлари ва Takser Token ёрдамида яратишлар: URI’лар) сўраш</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Marycoin Core &amp;ҳақида</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Takser Token Core &amp;ҳақида</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -402,20 +402,20 @@
         <translation>Фойдаланилган қабул қилинган манзиллар ва ёрлиқлар рўйхатини кўрсатиш</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>Marycoin’ни очиш: URI ёки тўлов сўрови</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>Takser Token’ни очиш: URI ёки тўлов сўрови</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Буйруқлар сатри мосламалари</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Мавжуд Marycoin буйруқлар матни мосламалари билан  Marycoin Core ёрдам хабарларини олиш рўйхатини кўрсатиш</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Мавжуд Takser Token буйруқлар матни мосламалари билан  Takser Token Core ёрдам хабарларини олиш рўйхатини кўрсатиш</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n та Marycoin тармоғига фаол уланиш мавжуд</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n та Takser Token тармоғига фаол уланиш мавжуд</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -739,8 +739,8 @@
         <translation>Киритилган "%1" манзили аллақачон манзил китобида.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>Киритилган "%1" манзили тўғри Marycoin манзили эмас.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>Киритилган "%1" манзили тўғри Takser Token манзили эмас.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -777,8 +777,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -789,8 +789,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Marycoin Core ҳақида</translation>
+        <source>About Takser Token Core</source>
+        <translation>Takser Token Core ҳақида</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -812,16 +812,16 @@
         <translation>Хуш келибсиз</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>"Marycoin Core"га хуш келибсиз.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>"Takser Token Core"га хуш келибсиз.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Marycoin Core will store its data.</source>
-        <translation>Биринчи марта дастур ишга тушгани каби сиз Marycoin Core маълумотларини жойлаштирадиган жойни танлашингиз мумкин.</translation>
+        <source>As this is the first time the program is launched, you can choose where Takser Token Core will store its data.</source>
+        <translation>Биринчи марта дастур ишга тушгани каби сиз Takser Token Core маълумотларини жойлаштирадиган жойни танлашингиз мумкин.</translation>
     </message>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Marycoin Core юклаб олинади ва Marycoin блок занжири нусхаси жойлаштирилади. Камида %1GB  маълумот ушбу директорияга жойлаштирилади ва вақт давомида ўсиб боради. Ҳамён ҳам ушбу директорияда жойлашади.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Takser Token Core юклаб олинади ва Takser Token блок занжири нусхаси жойлаштирилади. Камида %1GB  маълумот ушбу директорияга жойлаштирилади ва вақт давомида ўсиб боради. Ҳамён ҳам ушбу директорияда жойлашади.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -832,8 +832,8 @@
         <translation>Бошқа маълумотлар директориясида фойдаланинг:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -993,8 +993,8 @@
         <translation>Шакл</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Кўрсатилган маълумот эскирган бўлиши мумкин. Ҳамёнингиз алоқа ўрнатилгандан сўнг Marycoin тармоқ билан автоматик тарзда синхронланади, аммо жараён ҳалигача тугалланмади.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>Кўрсатилган маълумот эскирган бўлиши мумкин. Ҳамёнингиз алоқа ўрнатилгандан сўнг Takser Token тармоқ билан автоматик тарзда синхронланади, аммо жараён ҳалигача тугалланмади.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1098,8 +1098,8 @@
         <translation>Миқдори</translation>
     </message>
     <message>
-        <source>Enter a Marycoin address (e.g. %1)</source>
-        <translation>Marycoin манзилини киритинг (масалан.  %1)</translation>
+        <source>Enter a Takser Token address (e.g. %1)</source>
+        <translation>Takser Token манзилини киритинг (масалан.  %1)</translation>
     </message>
     <message>
         <source>%1 m</source>
@@ -1632,8 +1632,8 @@
         <translation>Тўлов миқдори 0. дан катта бўлиши керак. </translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Диққат: Нотўғр Marycoin манзили</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Диққат: Нотўғр Takser Token манзили</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1740,12 +1740,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Marycoin Core дастурчилари</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Takser Token Core дастурчилари</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2108,7 +2108,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Танламалар:</translation>

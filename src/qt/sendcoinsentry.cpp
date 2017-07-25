@@ -37,9 +37,9 @@ SendCoinsEntry::SendCoinsEntry(const PlatformStyle *platformStyle, QWidget *pare
     ui->addAsLabel->setPlaceholderText(tr("Enter a label for this address to add it to your address book"));
 #endif
 
-    // normal marycoin address field
+    // normal Takser Token address field
     GUIUtil::setupAddressWidget(ui->payTo, this);
-    // just a label for displaying marycoin address(es)
+    // just a label for displaying Takser Token address(es)
     ui->payTo_is->setFont(GUIUtil::fixedPitchFont());
 
     // Connect signals
@@ -108,7 +108,7 @@ void SendCoinsEntry::clear()
     ui->memoTextLabel_s->clear();
     ui->payAmount_s->clear();
 
-    // update the display unit, to not use the default ("MC")
+    // update the display unit, to not use the default ("TKSR")
     updateDisplayUnit();
 }
 

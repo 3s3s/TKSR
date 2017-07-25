@@ -66,12 +66,12 @@
         <translation>Adresa za primanje</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Marycoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše Takser Token adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Marycoin adrese za primanje novca. Preporučamo da koristite novu adresu za primanje za svaku transakciju.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su vaše Takser Token adrese za primanje novca. Preporučamo da koristite novu adresu za primanje za svaku transakciju.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -294,8 +294,8 @@
         <translation>Otvori &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core klijent</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -306,8 +306,8 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Slanje novca na marycoin adresu</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Slanje novca na Takser Token adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -330,8 +330,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -346,8 +346,8 @@
         <translation>Pri&amp;mi</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Prikaži informacije o programu Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Prikaži informacije o programu Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -362,12 +362,12 @@
         <translation>Šifriranje privatnih ključeva koji u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Poruku potpišemo s marycoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Poruku potpišemo s Takser Token adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom marycoin adresom</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom Takser Token adresom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -386,19 +386,19 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Zatraži uplatu (stvara QR kod i marycoin: URI adresu)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Zatraži uplatu (stvara QR kod i tksr: URI adresu)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;O programu Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;O programu Takser Token Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
+        <source>Modify configuration options for Takser Token Core</source>
         <translation>Promijeni postavke programa</translation>
     </message>
     <message>
@@ -410,20 +410,20 @@
         <translation>Prikaži popis korištenih adresa i oznaka za primanje novca</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>Otvori marycoin: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>Otvori tksr: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
         <translation>Ispis svih opcija naredbene linije programa sa kratkim opisom</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n aktivna veza na Marycoin mrežu</numerusform><numerusform>%n aktivnih veza na Marycoin mrežu</numerusform><numerusform>%n aktivnih veza na Marycoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n aktivna veza na Takser Token mrežu</numerusform><numerusform>%n aktivnih veza na Takser Token mrežu</numerusform><numerusform>%n aktivnih veza na Takser Token mrežu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -686,11 +686,11 @@
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Oznaka marycoin adrese</translation>
+        <translation>Oznaka Takser Token adrese</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Marycoin adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>Takser Token adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -717,8 +717,8 @@
         <translation>Upisana adresa "%1" je već u adresaru.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>Upisana adresa "%1" nije valjana marycoin adresa.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>Upisana adresa "%1" nije valjana Takser Token adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -747,8 +747,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -759,8 +759,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>O programu Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>O programu Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -782,12 +782,12 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Dobrodošli u programu Marycoin Core.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Dobrodošli u programu Takser Token Core.</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -864,11 +864,11 @@
         <translation>&amp;Mreža</translation>
     </message>
     <message>
-        <source>Automatically start Marycoin Core after logging in to the system.</source>
+        <source>Automatically start Takser Token Core after logging in to the system.</source>
         <translation>Program se automatski pokrene po prijavi u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start Marycoin Core on system login</source>
+        <source>&amp;Start Takser Token Core on system login</source>
         <translation>&amp;Pokreni program kod prijave u sustav</translation>
     </message>
     <message>
@@ -880,8 +880,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Marycoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port Takser Token klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -955,8 +955,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Marycoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Takser Token mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1086,8 +1086,8 @@
         <translation>Očisti konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Marycoin Core RPC console.</source>
-        <translation>Dobrodošli u Marycoin RPC konzolu.</translation>
+        <source>Welcome to the Takser Token Core RPC console.</source>
+        <translation>Dobrodošli u Takser Token RPC konzolu.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1406,8 +1406,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1762,7 +1762,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Postavke:</translation>

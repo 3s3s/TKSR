@@ -66,12 +66,12 @@
         <translation>Gaunami adresai</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai yra jūsų Marycoin adresai mokėjimų siuntimui. Visada patikrinkite siunčiamą sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai yra jūsų Takser Token adresai mokėjimų siuntimui. Visada patikrinkite siunčiamą sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai yra jūsų Marycoin adresai mokėjimų gavimui. Rekomenduojame naudoti naujus gavimo adresus kiekvienai tranzakcijai.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai yra jūsų Takser Token adresai mokėjimų gavimui. Rekomenduojame naudoti naujus gavimo adresus kiekvienai tranzakcijai.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -286,8 +286,8 @@
         <translation>Atidaryti &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core klientas</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -298,8 +298,8 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Siųsti monetas Marycoin adresui</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Siųsti monetas Takser Token adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -322,8 +322,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -338,8 +338,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Rodyti informaciją apie Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Rodyti informaciją apie Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -370,12 +370,12 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin branduolys</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;Apie Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;Apie Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -615,8 +615,8 @@
         <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Marycoin adresas.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Takser Token adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -637,16 +637,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin branduolys</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token branduolys</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Apie Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Apie Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -668,12 +668,12 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Sveiki atvykę į Marycoin Core.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Sveiki atvykę į Takser Token Core.</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin branduolys</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token branduolys</translation>
     </message>
     <message>
         <source>Error</source>
@@ -714,8 +714,8 @@
         <translation>Piniginė</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Marycoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Takser Token kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1289,7 +1289,7 @@
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
+        <source>Sign the message to prove you own this Takser Token address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1305,8 +1305,8 @@
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Marycoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Takser Token adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1360,8 +1360,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin branduolys</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token branduolys</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1728,7 +1728,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Parinktys:</translation>

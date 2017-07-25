@@ -46,7 +46,7 @@
         <translation>V&amp;ali</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Need on sinu Bitcoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
@@ -250,7 +250,7 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
+        <source>Send coins to a Takser Token address</source>
         <translation>Saada münte Bitcoini aadressile</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -302,11 +302,11 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
         <translation>Omandi tõestamiseks allkirjasta sõnumid oma Bitcoini aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
         <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Bitcoini aadressiga</translation>
     </message>
     <message>
@@ -326,11 +326,11 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
+        <source>&amp;About Takser Token Core</source>
         <translation>Kirjeldus Bitcoini Tuumast</translation>
     </message>
     <message>
@@ -569,7 +569,7 @@
         <translation>Selline aadress on juba olemas: "%1"</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
         <translation>Sisestatud aadress "%1" ei ole Bitcoinis kehtiv.</translation>
     </message>
     <message>
@@ -591,7 +591,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -599,7 +599,7 @@
         <translation>versioon</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
+        <source>About Takser Token Core</source>
         <translation>Kirjeldus Bitcoini Tuumast</translation>
     </message>
     <message>
@@ -622,7 +622,7 @@
         <translation>Teretulemast</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -676,7 +676,7 @@
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Bitcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
@@ -755,7 +755,7 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -778,8 +778,8 @@
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
-        <translation>Marycoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start tksr: click-to-pay handler</source>
+        <translation>Takser Token ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>
 <context>
@@ -1203,7 +1203,7 @@
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
+        <source>Sign the message to prove you own this Takser Token address</source>
         <translation>Allkirjasta sõnum Bitcoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
@@ -1223,7 +1223,7 @@
         <translation>&amp;Kinnita Sõnum</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
         <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Bitcoini aadressiga.</translation>
     </message>
     <message>
@@ -1290,11 +1290,11 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
+        <source>The Takser Token Core developers</source>
         <translation>Bitcoini Tuuma arendajad</translation>
     </message>
     <message>
@@ -1670,7 +1670,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Valikud:</translation>

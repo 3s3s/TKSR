@@ -1,4 +1,4 @@
-Marycoin
+Takser Token
 ----------------
 
 Copyright © 2017 The TKSR developers

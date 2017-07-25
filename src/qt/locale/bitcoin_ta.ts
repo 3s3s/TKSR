@@ -114,8 +114,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -146,8 +146,8 @@
         <translation>&amp;உதவி</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin மையம்</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token மையம்</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -289,12 +289,12 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin மையம்</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token மையம்</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Marycoin மையம் பற்றி</translation>
+        <source>About Takser Token Core</source>
+        <translation>Takser Token மையம் பற்றி</translation>
     </message>
     </context>
 <context>
@@ -304,8 +304,8 @@
         <translation>நல்வரவு</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin மையம்</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token மையம்</translation>
     </message>
     <message>
         <source>Error</source>
@@ -812,8 +812,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin மையம்</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token மையம்</translation>
     </message>
     </context>
 <context>
@@ -1004,7 +1004,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>(default: %u)</source>
         <translation>(default: %u)</translation>

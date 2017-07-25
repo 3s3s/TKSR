@@ -190,8 +190,8 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Пошаљите новац на marycoin адресу</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Пошаљите новац на Takser Token адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -222,8 +222,8 @@
         <translation>Трака са картицама</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>O Marycoin Coru</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>O Takser Token Coru</translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -321,8 +321,8 @@
         <translation>верзија</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>O Marycoin Coru</translation>
+        <source>About Takser Token Core</source>
+        <translation>O Takser Token Coru</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -776,7 +776,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opcije</translation>

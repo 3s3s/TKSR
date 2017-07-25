@@ -250,7 +250,7 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
+        <source>Takser Token Core client</source>
         <translation>Биткоин Core софтверот</translation>
     </message>
     <message>
@@ -262,7 +262,7 @@
         <translation>Повторно индексирање на блокови од дискот...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
+        <source>Send coins to a Takser Token address</source>
         <translation>Испрати биткоини на Биткоин адреса</translation>
     </message>
     <message>
@@ -270,7 +270,7 @@
         <translation>&amp;Потврди порака...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
+        <source>Takser Token</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -286,7 +286,7 @@
         <translation>&amp;Прими</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
+        <source>Show information about Takser Token Core</source>
         <translation>Прикажи информации за Биткоин Core</translation>
     </message>
     <message>
@@ -306,11 +306,11 @@
         <translation>&amp;Помош</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
+        <source>&amp;About Takser Token Core</source>
         <translation>&amp;За Биткоин Core</translation>
     </message>
     <message numerus="yes">
@@ -575,7 +575,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
@@ -587,14 +587,14 @@
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
+        <source>About Takser Token Core</source>
         <translation>За Биткоин Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
@@ -934,7 +934,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
+        <source>Takser Token Core</source>
         <translation>Биткоин Core</translation>
     </message>
     </context>
@@ -1022,7 +1022,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Опции:</translation>

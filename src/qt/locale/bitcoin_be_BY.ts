@@ -66,11 +66,11 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
@@ -168,8 +168,8 @@
         <translation>Ці ўпэўненыя вы, што жадаеце зашыфраваць свой гаманец?</translation>
     </message>
     <message>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Marycoin Core зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Takser Token Core зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -298,8 +298,8 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core кліент</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core кліент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -310,7 +310,7 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
+        <source>Send coins to a Takser Token address</source>
         <translation>Даслаць манеты на Біткойн-адрас</translation>
     </message>
     <message>
@@ -334,7 +334,7 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
+        <source>Takser Token</source>
         <translation>Біткойн</translation>
     </message>
     <message>
@@ -350,8 +350,8 @@
         <translation>Атрымаць</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Паказаць інфармацыю аб Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Паказаць інфармацыю аб Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -366,11 +366,11 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
         <translation>Падпісаць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
         <translation>Спраўдзіць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
@@ -386,20 +386,20 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
         <translation>Запатрабаваць плацёж (генеруецца QR-код для біткойн URI)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Аб Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Аб Takser Token Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
-        <translation>Мадыфікаваць опцыі канфігурацыі Marycoin Core</translation>
+        <source>Modify configuration options for Takser Token Core</source>
+        <translation>Мадыфікаваць опцыі канфігурацыі Takser Token Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,7 +410,7 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
+        <source>Open a tksr: URI or payment request</source>
         <translation>Адкрыць біткойн: URI ці запыт плацяжу</translation>
     </message>
     <message>
@@ -418,12 +418,12 @@
         <translation>Опцыі каманднага радка</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Паказваць даведку Marycoin Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Паказваць даведку Takser Token Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n актыўнае злучэнне з сецівам Marycoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Marycoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Marycoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Marycoin</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n актыўнае злучэнне з сецівам Takser Token</numerusform><numerusform>%n актыўных злучэнняў з сецівам Takser Token</numerusform><numerusform>%n актыўных злучэнняў з сецівам Takser Token</numerusform><numerusform>%n актыўных злучэнняў з сецівам Takser Token</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -775,16 +775,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-біт)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Аб Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Аб Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -806,12 +806,12 @@
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Вітаем у Marycoin Core.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Вітаем у Takser Token Core.</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1102,12 +1102,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Распрацоўнікі Marycoin Core</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Распрацоўнікі Takser Token Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1390,7 +1390,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Опцыі:</translation>

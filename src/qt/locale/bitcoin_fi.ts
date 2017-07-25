@@ -66,12 +66,12 @@
         <translation>Vastaanottava osoite</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun Marycoin osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun Takser Token osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun Marycoin-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun Takser Token-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -168,8 +168,8 @@
         <translation>Haluatko varmasti salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Marycoin Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Takser Token Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -306,8 +306,8 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core ohjelma</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core ohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -318,8 +318,8 @@
         <translation>Ladataan lohkoindeksiä...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Lähetä kolikoita Marycoin-osoitteeseen</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Lähetä kolikoita Takser Token-osoitteeseen</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>Varmista &amp;viesti...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Näytä tietoja Marycoin Core:sta</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Näytä tietoja Takser Token Core:sta</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -367,19 +367,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Marycoin-ikkuna</translation>
+        <translation>Näytä tai piilota Takser Token-ikkuna</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Suojaa yksityiset avaimet, jotka kuuluvat lompakkoosi</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Marycoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla Takser Token -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Marycoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Takser Token -osoitteella</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,20 +398,20 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin-ydin</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token-ydin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja marycoin: URIt)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja tksr: URIt)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;Tietoja Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;Tietoja Takser Token Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
-        <translation>Muokkaa kokoonpanoasetuksia Marycoin Corelle</translation>
+        <source>Modify configuration options for Takser Token Core</source>
+        <translation>Muokkaa kokoonpanoasetuksia Takser Token Corelle</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,20 +422,20 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>Avaa marycoin: URI tai maksupyyntö</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>Avaa tksr: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>Näytä Marycoin Core ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>Näytä Takser Token Core ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Marycoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Marycoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n aktiivinen yhteys Takser Token-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Takser Token-verkkoon</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -817,8 +817,8 @@
         <translation>Osoite "%1" on jo osoitekirjassa.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>Antamasi osoite "%1" ei ole validi Marycoin-osoite.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>Antamasi osoite "%1" ei ole validi Takser Token-osoite.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -855,8 +855,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin-ydin</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token-ydin</translation>
     </message>
     <message>
         <source>version</source>
@@ -867,8 +867,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Tietoja Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Tietoja Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -918,16 +918,16 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Tervetuloa Marycoin Core</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Tervetuloa Takser Token Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Marycoin Core will store its data.</source>
-        <translation>Tämän on ensimmäinen kerta kun Marycoin Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
+        <source>As this is the first time the program is launched, you can choose where Takser Token Core will store its data.</source>
+        <translation>Tämän on ensimmäinen kerta kun Takser Token Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Marycoin Core lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Takser Token Core lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -938,8 +938,8 @@
         <translation>Määritä oma kansio:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin-ydin</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token-ydin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1020,8 +1020,8 @@
         <translation>Minimoi ikkuna ohjelman sulkemisen sijasta kun ikkuna suljetaan. Kun tämä asetus on käytössä, ohjelma suljetaan vain valittaessa valikosta Poistu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Marycoin Core.</source>
-        <translation>Käyttöliittymän kieli voidaan asettaa tässä. Tämä asetus tulee käyttöön vasta kun Marycoin Core käynnistetään uudelleen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Takser Token Core.</source>
+        <translation>Käyttöliittymän kieli voidaan asettaa tässä. Tämä asetus tulee käyttöön vasta kun Takser Token Core käynnistetään uudelleen.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1048,12 +1048,12 @@
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>Automatically start Marycoin Core after logging in to the system.</source>
-        <translation>Käynnistä Marycoin Core automaattisesti järjestelmään kirjautumisen jälkeen.</translation>
+        <source>Automatically start Takser Token Core after logging in to the system.</source>
+        <translation>Käynnistä Takser Token Core automaattisesti järjestelmään kirjautumisen jälkeen.</translation>
     </message>
     <message>
-        <source>&amp;Start Marycoin Core on system login</source>
-        <translation>&amp;Käynnistä Marycoin Core järjestelmään kirjautuessa</translation>
+        <source>&amp;Start Takser Token Core on system login</source>
+        <translation>&amp;Käynnistä Takser Token Core järjestelmään kirjautuessa</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1080,16 +1080,16 @@
         <translation>&amp;Käytä varmistamattomia vaihtorahoja</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Marycoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Takser Token-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portin uudelleenohjaus &amp;UPnP:llä</translation>
     </message>
     <message>
-        <source>Connect to the Marycoin network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Marycoin-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
+        <source>Connect to the Takser Token network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä Takser Token-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1128,8 +1128,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Marycoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Yhdistä Marycoin-verkkoon erillisen SOCKS5-välityspalvelimen kautta piilotettuja Tor-palveluja varten.</translation>
+        <source>Connect to the Takser Token network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Yhdistä Takser Token-verkkoon erillisen SOCKS5-välityspalvelimen kautta piilotettuja Tor-palveluja varten.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1161,11 +1161,11 @@
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona marycoin-määrät näytetään</translation>
+        <translation>Yksikkö jona Takser Token-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti marycoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti Takser Token-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1215,8 +1215,8 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Marycoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Takser Token-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1314,16 +1314,16 @@
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
-        <translation>Ei voida käynnistää marycoin: klikkaa-maksu käsittelijää</translation>
+        <source>Cannot start tksr: click-to-pay handler</source>
+        <translation>Ei voida käynnistää tksr: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Maksupyynnön haku URL on virheellinen: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Marycoin address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Marycoin-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Takser Token address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Takser Token-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1396,8 +1396,8 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a Marycoin address (e.g. %1)</source>
-        <translation>Syötä Marycoin-osoite (esim. %1)</translation>
+        <source>Enter a Takser Token address (e.g. %1)</source>
+        <translation>Syötä Takser Token-osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1518,8 +1518,8 @@
         <translation>Muistin käyttö</translation>
     </message>
     <message>
-        <source>Open the Marycoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Marycoin Coren debug-loki tämänhetkisestä datahakemistosta. Tämä voi viedä muutaman sekunnin suurille lokitiedostoille.</translation>
+        <source>Open the Takser Token Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Takser Token Coren debug-loki tämänhetkisestä datahakemistosta. Tämä voi viedä muutaman sekunnin suurille lokitiedostoille.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1678,8 +1678,8 @@
         <translation>&amp;Poista solmukohdan esto</translation>
     </message>
     <message>
-        <source>Welcome to the Marycoin Core RPC console.</source>
-        <translation>Tervetuloa Marycoin Coren RPC-konsoliin.</translation>
+        <source>Welcome to the Takser Token Core RPC console.</source>
+        <translation>Tervetuloa Takser Token Coren RPC-konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1761,8 +1761,8 @@
         <translation>&amp;Uudelleenkäytä vastaanotto-osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Marycoin network.</source>
-        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Marycoin-verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Takser Token network.</source>
+        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Takser Token-verkkoon.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2146,8 +2146,8 @@
         <translation>Duplikaattiosoite löytyi: kutakin osoitetta pitäisi käyttää vain kerran.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Varoitus: Virheellinen Marycoin osoite</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Varoitus: Virheellinen Takser Token osoite</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2197,8 +2197,8 @@
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Marycoin address to send the payment to</source>
-        <translation>Marycoin-osoite johon maksu lähetetään</translation>
+        <source>The Takser Token address to send the payment to</source>
+        <translation>Takser Token-osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2237,8 +2237,8 @@
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the marycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Marycoin network.</source>
-        <translation>Viesti joka liitettiin marycoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Marycoin-verkkoon.</translation>
+        <source>A message that was attached to the tksr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Takser Token network.</source>
+        <translation>Viesti joka liitettiin tksr: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Takser Token-verkkoon.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2252,8 +2252,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>Marycoin core sulkeutuu...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>Takser Token core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2271,8 +2271,8 @@
         <translation>&amp;Allekirjoita viesti</translation>
     </message>
     <message>
-        <source>The Marycoin address to sign the message with</source>
-        <translation>Marycoin-osoite jolla viesti allekirjoitetaan</translation>
+        <source>The Takser Token address to sign the message with</source>
+        <translation>Takser Token-osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2303,8 +2303,8 @@
         <translation>Kopioi tämänhetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Marycoin-osoitteen</translation>
+        <source>Sign the message to prove you own this Takser Token address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Takser Token-osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2323,12 +2323,12 @@
         <translation>&amp;Varmista viesti</translation>
     </message>
     <message>
-        <source>The Marycoin address the message was signed with</source>
-        <translation>Marycoin-osoite jolla viesti on allekirjoitettu</translation>
+        <source>The Takser Token address the message was signed with</source>
+        <translation>Takser Token-osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Marycoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Takser Token-osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2394,12 +2394,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin-ydin</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token-ydin</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>Marycoin Core kehittäjät</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>Takser Token Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2886,7 +2886,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Asetukset:</translation>
@@ -2944,8 +2944,8 @@
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla riskillä - Ei saa käytää louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Marycoin Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Marycoin Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Takser Token Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Takser Token Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3104,8 +3104,8 @@
         <translation>Salli JSON-RPC-yhteydet määritetystä lähteestä. Kelvolliset arvot &lt;ip&gt; ovat yksittäinen IP (esim. 1.2.3.4), verkko/verkkomaski (esim. 1.2.3.4/255.255.255.0) tai verkko/luokaton reititys (esim. 1.2.3.4/24). Tätä valintatapaa voidaan käyttää useita kertoja</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Marycoin Core is probably already running.</source>
-        <translation>Ei voida lukita data-hakemistoa %s. Marycoin Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Takser Token Core is probably already running.</source>
+        <translation>Ei voida lukita data-hakemistoa %s. Takser Token Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3144,11 +3144,11 @@
         <translation>Yhdistä SOCKS5 proxin kautta</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Marycoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i  Marycoin kehittäjät</translation>
+        <source>Copyright (C) 2009-%i The Takser Token Core Developers</source>
+        <translation>Copyright (C) 2009-%i  Takser Token kehittäjät</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Marycoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Takser Token Core</source>
         <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Bitcoinista</translation>
     </message>
     <message>
@@ -3248,8 +3248,8 @@
         <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Marycoin Core to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Marycoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart Takser Token Core to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Takser Token uudelleen</translation>
     </message>
     <message>
         <source>Warning</source>

@@ -58,12 +58,12 @@
         <translation>Recepción de direcciones</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones Marycoin para realizar pagos. Siempre checa el monto y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones Takser Token para realizar pagos. Siempre checa el monto y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Marycoin para recibir pagos. Es recomendable usar una nueva dirección para cada transacción.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones Takser Token para recibir pagos. Es recomendable usar una nueva dirección para cada transacción.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -242,8 +242,8 @@
         <translation>Recepción de direcciones</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Cliente Marycoin Core</translation>
+        <source>Takser Token Core client</source>
+        <translation>Cliente Takser Token Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -254,8 +254,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Enviar monedas a una dirección Marycoin</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Enviar monedas a una dirección Takser Token</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -270,8 +270,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -286,8 +286,8 @@
         <translation>&amp;Recibir</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Mostrar información acerca de Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Mostrar información acerca de Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -302,12 +302,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Marycoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones Takser Token para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Marycoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Takser Token especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -318,12 +318,12 @@
         <translation>&amp;Configuración</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>Acerca de Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>Acerca de Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -635,8 +635,8 @@
         <translation>La dirección introducida "%1" ya está en el libro de direcciones.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Marycoin válida.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>La dirección introducida "%1" no es una dirección Takser Token válida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -673,8 +673,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -685,8 +685,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>Acerca de Marycoin Core</translation>
+        <source>About Takser Token Core</source>
+        <translation>Acerca de Takser Token Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -704,8 +704,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Marycoin Core descargará y almacenará una copia de la cadena de bloques Marycoin. Al menos %1GB de datos serán almacenados en este directorio, y crecerá con el tiempo. La billetera será también almacenada en este directorio.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Takser Token Core descargará y almacenará una copia de la cadena de bloques Takser Token. Al menos %1GB de datos serán almacenados en este directorio, y crecerá con el tiempo. La billetera será también almacenada en este directorio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -716,8 +716,8 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -936,8 +936,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     </context>
 <context>
@@ -1052,7 +1052,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opciones:</translation>
@@ -1102,8 +1102,8 @@
         <translation>Esta es una compilación de prueba pre-lanzamiento - use bajo su propio riesgo - no utilizar para aplicaciones de minería o mercantes</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Marycoin Core is probably already running.</source>
-        <translation>Deshabilitar para enlezar a %s en esta computadora. Marycoin Core probablemente ya está ejecutándose.</translation>
+        <source>Unable to bind to %s on this computer. Takser Token Core is probably already running.</source>
+        <translation>Deshabilitar para enlezar a %s en esta computadora. Takser Token Core probablemente ya está ejecutándose.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>

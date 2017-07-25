@@ -62,13 +62,13 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>
-Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+Estas son las direcciones de Takser Token para enviar pagos . Siempre verifique la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son las direcciones de Marycoin para recibir los pagos . Se recomienda el uso de una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son las direcciones de Takser Token para recibir los pagos . Se recomienda el uso de una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -165,8 +165,8 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
         <translation>Estas seguro de que deseas encriptar tu billetera?</translation>
     </message>
     <message>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Marycoin Core se cerrará ahora para finalizar el proceso de encriptación. Recuerda que encriptando tu billetera no protegera por completo tus bitcoins desde robos por malware que infectan tu computadora.</translation>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Takser Token Core se cerrará ahora para finalizar el proceso de encriptación. Recuerda que encriptando tu billetera no protegera por completo tus bitcoins desde robos por malware que infectan tu computadora.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -279,16 +279,16 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core cliente</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core cliente</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
         <translation>Importando bloques desde el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Enviando monedas a una dirección de Marycoin</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Enviando monedas a una dirección de Takser Token</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -307,8 +307,8 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
         <translation>&amp;Verificar Mensaje...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -323,8 +323,8 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
         <translation>&amp;Recibir</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Mostrar información sobre Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Mostrar información sobre Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -347,8 +347,8 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
         <translation>&amp;Ayuda</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -374,15 +374,15 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -457,8 +457,8 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     </context>
 <context>
@@ -513,7 +513,7 @@ Estas son las direcciones de Marycoin para enviar pagos . Siempre verifique la c
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Insufficient funds</source>
         <translation>Fondos Insuficientes</translation>

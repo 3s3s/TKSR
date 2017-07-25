@@ -74,7 +74,7 @@ bool AppInit(int argc, char* argv[])
     // Process help and version before taking care about datadir
     if (mapArgs.count("-?") || mapArgs.count("-h") ||  mapArgs.count("-help") || mapArgs.count("-version"))
     {
-        std::string strUsage = _("Marycoin Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("Takser Token Core Daemon") + " " + _("version") + " " + FormatFullVersion() + "\n";
 
         if (mapArgs.count("-version"))
         {
@@ -83,7 +83,7 @@ bool AppInit(int argc, char* argv[])
         else
         {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  marycoind [options]                     " + _("Start Marycoin Core Daemon") + "\n";
+                  "  tksrd [options]                     " + _("Start Takser Token Core Daemon") + "\n";
 
             strUsage += "\n" + HelpMessage(HMM_BITCOIND);
         }
@@ -117,19 +117,19 @@ bool AppInit(int argc, char* argv[])
         // Command-line RPC
         bool fCommandLine = false;
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "marycoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "tksr:"))
                 fCommandLine = true;
 
         if (fCommandLine)
         {
-            fprintf(stderr, "Error: There is no RPC client functionality in marycoind anymore. Use the marycoin-cli utility instead.\n");
+            fprintf(stderr, "Error: There is no RPC client functionality in tksrd anymore. Use the tksr-cli utility instead.\n");
             exit(1);
         }
 #ifndef WIN32
         fDaemon = GetBoolArg("-daemon", false);
         if (fDaemon)
         {
-            fprintf(stdout, "Marycoin server starting\n");
+            fprintf(stdout, "Takser Token server starting\n");
 
             // Daemonize
             pid_t pid = fork();
@@ -180,7 +180,7 @@ int main(int argc, char* argv[])
 {
     SetupEnvironment();
 
-    // Connect marycoind signal handlers
+    // Connect tksrd signal handlers
     noui_connect();
 
     return (AppInit(argc, argv) ? 0 : 1);

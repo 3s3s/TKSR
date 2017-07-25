@@ -66,8 +66,8 @@
         <translation>กำลังรับที่อยู่</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ที่อยู่เหล่านี้เป็นที่อยู่ Marycoin ของคุณ สำหรับใช้เพื่อส่งเงิน กรุณาตรวจสอบจำนวนเงินและที่อยู่สำหรับรับเงินก่อนส่งเหรียญไป</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>ที่อยู่เหล่านี้เป็นที่อยู่ Takser Token ของคุณ สำหรับใช้เพื่อส่งเงิน กรุณาตรวจสอบจำนวนเงินและที่อยู่สำหรับรับเงินก่อนส่งเหรียญไป</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -238,8 +238,8 @@
         <translation>&amp;ยืนยันข้อความ...</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -270,8 +270,8 @@
         <translation>แถบเครื่องมือ</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Marycoin</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Takser Token</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -572,7 +572,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>ตัวเลือก:</translation>

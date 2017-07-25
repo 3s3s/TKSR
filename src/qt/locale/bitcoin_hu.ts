@@ -66,11 +66,11 @@
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Ezekről a címekről küldhetsz bitcoint. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
     </message>
     <message>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ezekkel a címekkel fogadhatsz bitcoint. Ajánlott minden tranzakcióhoz egy új fogadó címet használni.</translation>
     </message>
     <message>
@@ -294,8 +294,8 @@
         <translation>&amp;URI azonosító megnyitása...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>Marycoin Core kliens</translation>
+        <source>Takser Token Core client</source>
+        <translation>Takser Token Core kliens</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -306,8 +306,8 @@
         <translation>Lemezen lévő blokkok újraindexelése...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Marycoin küldése megadott címre</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Takser Token küldése megadott címre</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -330,8 +330,8 @@
         <translation>Üzenet &amp;valódiságának ellenőrzése</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Fogadás</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Marycoin Core információ megjelenítése</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Takser Token Core információ megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -362,12 +362,12 @@
         <translation>A tárcádhoz tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Üzenetek aláírása a Marycoin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Üzenetek aláírása a Takser Token-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt Marycoin-címekkel vannak-e aláírva</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt Takser Token-címekkel vannak-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -386,20 +386,20 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Fizetési kérelem (QR-kódot és "marycoin:" URI azonosítót hoz létre)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Fizetési kérelem (QR-kódot és "tksr:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;A Marycoin Core-ról</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;A Takser Token Core-ról</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
-        <translation>Konfigurációs opciók módosítása a Marycoin Core-hoz</translation>
+        <source>Modify configuration options for Takser Token Core</source>
+        <translation>Konfigurációs opciók módosítása a Takser Token Core-hoz</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,20 +410,20 @@
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a marycoin: URI or payment request</source>
-        <translation>"marycoin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a tksr: URI or payment request</source>
+        <translation>"tksr:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
-        <translation>A Marycoin Core súgóüzenet megjelenítése a Marycoin lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
+        <translation>A Takser Token Core súgóüzenet megjelenítése a Takser Token lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Marycoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Marycoin hálózathoz</numerusform><numerusform>%n aktív kapcsolat a Marycoin hálózathoz</numerusform></translation>
+        <source>%n active connection(s) to Takser Token network</source>
+        <translation><numerusform>%n aktív kapcsolat a Takser Token hálózathoz</numerusform><numerusform>%n aktív kapcsolat a Takser Token hálózathoz</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -805,8 +805,8 @@
         <translation>A megadott "%1" cím már szerepel a címjegyzékben.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>A megadott "%1" cím nem egy érvényes Marycoin-cím.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>A megadott "%1" cím nem egy érvényes Takser Token-cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -839,8 +839,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -851,8 +851,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Marycoin Core</source>
-        <translation>A Marycoin Core-ról</translation>
+        <source>About Takser Token Core</source>
+        <translation>A Takser Token Core-ról</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -874,12 +874,12 @@
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Marycoin Core.</source>
-        <translation>Üdvözlünk a Marycoin Core-ban.</translation>
+        <source>Welcome to Takser Token Core.</source>
+        <translation>Üdvözlünk a Takser Token Core-ban.</translation>
     </message>
     <message>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>A Marycoin Core le fogja tölteni és tárolni fogja a Marycoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>A Takser Token Core le fogja tölteni és tárolni fogja a Takser Token blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -890,8 +890,8 @@
         <translation>Saját adatkönyvtár használata:</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -960,8 +960,8 @@
         <translation>A proxy IP címe (pl.: IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Marycoin Core.</source>
-        <translation>Itt beállíthatod a kezelőfelület nyelvét. A beállítás a Marycoin újraindítása után lép érvénybe.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Takser Token Core.</source>
+        <translation>Itt beállíthatod a kezelőfelület nyelvét. A beállítás a Takser Token újraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <source>Third party transaction URLs</source>
@@ -980,8 +980,8 @@
         <translation>&amp;Hálózat</translation>
     </message>
     <message>
-        <source>&amp;Start Marycoin Core on system login</source>
-        <translation>A Marycoin elindítása bejelentkezéskor</translation>
+        <source>&amp;Start Takser Token Core on system login</source>
+        <translation>A Takser Token elindítása bejelentkezéskor</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -992,16 +992,16 @@
         <translation>Szakértő</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Marycoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A Takser Token-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>&amp;UPnP port-feltérképezés</translation>
     </message>
     <message>
-        <source>Connect to the Marycoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a Marycoin hálózatához SOCKS5 proxyn keresztül</translation>
+        <source>Connect to the Takser Token network through a SOCKS5 proxy.</source>
+        <translation>Csatlakozás a Takser Token hálózatához SOCKS5 proxyn keresztül</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1095,8 +1095,8 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Marycoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Takser Token hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1154,7 +1154,7 @@
         <translation>URI kezelés</translation>
     </message>
     <message>
-        <source>Cannot start marycoin: click-to-pay handler</source>
+        <source>Cannot start tksr: click-to-pay handler</source>
         <translation>A bitcoint nem lehet elindítani: click-to-pay handler</translation>
     </message>
     <message>
@@ -1184,8 +1184,8 @@
         <translation>Összeg</translation>
     </message>
     <message>
-        <source>Enter a Marycoin address (e.g. %1)</source>
-        <translation>Ad meg egy Marycoin címet (pl: %1)</translation>
+        <source>Enter a Takser Token address (e.g. %1)</source>
+        <translation>Ad meg egy Takser Token címet (pl: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1747,7 +1747,7 @@
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi marycoin az egyenlegeden.</translation>
+        <translation>Nincs ennyi Takser Token az egyenlegeden.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
@@ -1758,8 +1758,8 @@
         <translation>A fizetési kérelem lejárt</translation>
     </message>
     <message>
-        <source>Warning: Invalid Marycoin address</source>
-        <translation>Figyelmeztetés: Érvénytelen Marycoin cím</translation>
+        <source>Warning: Invalid Takser Token address</source>
+        <translation>Figyelmeztetés: Érvénytelen Takser Token cím</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1829,8 +1829,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Marycoin Core is shutting down...</source>
-        <translation>A Marycoin Core leáll...</translation>
+        <source>Takser Token Core is shutting down...</source>
+        <translation>A Takser Token Core leáll...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1876,7 +1876,7 @@
         <translation>A jelenleg kiválasztott aláírás másolása a rendszer-vágólapra</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
+        <source>Sign the message to prove you own this Takser Token address</source>
         <translation>Üzenet </translation>
     </message>
     <message>
@@ -1935,12 +1935,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation>Takser Token Core</translation>
     </message>
     <message>
-        <source>The Marycoin Core developers</source>
-        <translation>A Marycoin Core fejlesztői</translation>
+        <source>The Takser Token Core developers</source>
+        <translation>A Takser Token Core fejlesztői</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2327,7 +2327,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opciók
@@ -2433,8 +2433,8 @@
         <translation>Külső cím (-whitebind address) feloldása nem sikerült: '%s'</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Marycoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i A Marycoin Core Fejlesztői</translation>
+        <source>Copyright (C) 2009-%i The Takser Token Core Developers</source>
+        <translation>Copyright (C) 2009-%i A Takser Token Core Fejlesztői</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

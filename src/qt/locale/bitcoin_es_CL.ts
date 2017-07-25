@@ -262,16 +262,16 @@
         <translation>Abrir y url...</translation>
     </message>
     <message>
-        <source>Marycoin Core client</source>
-        <translation>cliente marycoin core</translation>
+        <source>Takser Token Core client</source>
+        <translation>cliente takser token core</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Enviar monedas a una dirección marycoin</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Enviar monedas a una dirección Takser Token</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -294,8 +294,8 @@
         <translation>Verificar mensaje....</translation>
     </message>
     <message>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -310,15 +310,15 @@
         <translation>y recibir</translation>
     </message>
     <message>
-        <source>Show information about Marycoin Core</source>
-        <translation>Mostrar informacion sobre Marycoin Core</translation>
+        <source>Show information about Takser Token Core</source>
+        <translation>Mostrar informacion sobre Takser Token Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
         <translation>&amp;Mostrar/Ocultar</translation>
     </message>
     <message>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -338,19 +338,19 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>marycoin core</translation>
+        <source>Takser Token Core</source>
+        <translation>takser token core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and marycoin: URls)</translation>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
+        <translation>Pide pagos (genera codigos QR and tksr: URls)</translation>
     </message>
     <message>
-        <source>&amp;About Marycoin Core</source>
-        <translation>&amp;Sobre Marycoin Core</translation>
+        <source>&amp;About Takser Token Core</source>
+        <translation>&amp;Sobre Takser Token Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Marycoin Core</source>
+        <source>Modify configuration options for Takser Token Core</source>
         <translation>Modifica las opciones para BitCoin Core</translation>
     </message>
     <message>
@@ -516,8 +516,8 @@
         <translation>La dirección introducida "%1" ya esta guardada en la libreta de direcciones.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Marycoin address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Marycoin valida.</translation>
+        <source>The entered address "%1" is not a valid Takser Token address.</source>
+        <translation>La dirección introducida "%1" no es una dirección Takser Token valida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -538,8 +538,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>marycoin core</translation>
+        <source>Takser Token Core</source>
+        <translation>takser token core</translation>
     </message>
     <message>
         <source>version</source>
@@ -561,8 +561,8 @@
         <translation>bienvenido</translation>
     </message>
     <message>
-        <source>Marycoin Core</source>
-        <translation>marycoin core</translation>
+        <source>Takser Token Core</source>
+        <translation>takser token core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -603,8 +603,8 @@
         <translation>experto</translation>
     </message>
     <message>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Marycoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente Takser Token en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1021,7 +1021,7 @@
         <translation>Firma</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Marycoin address</source>
+        <source>Sign the message to prove you own this Takser Token address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -1050,7 +1050,7 @@
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor, revise la dirección Marycoin e inténtelo denuevo</translation>
+        <translation>Por favor, revise la dirección Takser Token e inténtelo denuevo</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
@@ -1072,8 +1072,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Marycoin Core</source>
-        <translation>marycoin core</translation>
+        <source>Takser Token Core</source>
+        <translation>takser token core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1428,7 +1428,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Options:</source>
         <translation>Opciones:

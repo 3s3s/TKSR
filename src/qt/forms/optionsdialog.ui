@@ -20,7 +20,7 @@
    <item>
     <widget class="QTabWidget" name="tabWidget">
      <property name="currentIndex">
-      <number>4</number>
+      <number>0</number>
      </property>
      <widget class="QWidget" name="tabMain">
       <attribute name="title">
@@ -33,7 +33,7 @@
           <string>Automatically start Bitcoin Core after logging in to the system.</string>
          </property>
          <property name="text">
-          <string>&amp;Start Marycoin Core on system login</string>
+          <string>&amp;Start Takser Token Core on system login</string>
          </property>
         </widget>
        </item>

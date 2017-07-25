@@ -46,9 +46,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Marycoin"
-#define QAPP_ORG_DOMAIN "multicoins.org"
-#define QAPP_APP_NAME_DEFAULT "Marycoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Marycoin-Qt-testnet"
+#define QAPP_ORG_NAME "Takser Token"
+#define QAPP_ORG_DOMAIN "tksrs.org"
+#define QAPP_APP_NAME_DEFAULT "TakserToken-Qt"
+#define QAPP_APP_NAME_TESTNET "TakserToken-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

@@ -47,7 +47,7 @@
 using namespace std;
 
 #if defined(NDEBUG)
-# error "Marycoin cannot be compiled without assertions."
+# error "Takser Token cannot be compiled without assertions."
 #endif
 
 /**
@@ -101,7 +101,7 @@ static void CheckBlockIndex(const Consensus::Params& consensusParams);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Marycoin Signed Message:\n";
+const string strMessageMagic = "Takser Token Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1402,7 +1402,7 @@ bool AcceptToMemoryPoolWorker(CTxMemPool& pool, CValidationState &state, const C
         // Remove conflicting transactions from the mempool
         BOOST_FOREACH(const CTxMemPool::txiter it, allConflicting)
         {
-            LogPrint("mempool", "replacing tx %s with %s for %s MC additional fees, %d delta bytes\n",
+            LogPrint("mempool", "replacing tx %s with %s for %s TKSR additional fees, %d delta bytes\n",
                     it->GetTx().GetHash().ToString(),
                     hash.ToString(),
                     FormatMoney(nModifiedFees - nConflictingFees),
@@ -1566,7 +1566,14 @@ bool ReadBlockFromDisk(CBlock& block, const CBlockIndex* pindex, const Consensus
 
 CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
 {
-    int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
+    if (nHeight == 1)
+    {
+        CAmount nSubsidy = 21000000 * COIN;
+        return nSubsidy;
+    }
+    return 0;
+
+    /*int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
     // Force block reward to zero when right shift is undefined.
     if (halvings >= 64)
         return 0;
@@ -1574,7 +1581,7 @@ CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
     CAmount nSubsidy = 50 * COIN;
     // Subsidy is cut in half every 210,000 blocks which will occur approximately every 4 years.
     nSubsidy >>= halvings;
-    return nSubsidy;
+    return nSubsidy;*/
 }
 
 bool IsInitialBlockDownload()

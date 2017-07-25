@@ -85,12 +85,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Marycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Takser Token addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Marycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Takser Token addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -211,7 +211,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Marycoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Takser Token Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <location line="+183"/>
-        <source>Marycoin Core client</source>
+        <source>Takser Token Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -405,8 +405,8 @@
     </message>
     <message>
         <location line="-436"/>
-        <source>Send coins to a Marycoin address</source>
-        <translation>Send coins to a Marycoin address</translation>
+        <source>Send coins to a Takser Token address</source>
+        <translation>Send coins to a Takser Token address</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -435,8 +435,8 @@
     </message>
     <message>
         <location line="+459"/>
-        <source>Marycoin</source>
-        <translation>Marycoin</translation>
+        <source>Takser Token</source>
+        <translation>Takser Token</translation>
     </message>
     <message>
         <location line="-669"/>
@@ -455,7 +455,7 @@
     </message>
     <message>
         <location line="+40"/>
-        <source>Show information about Marycoin Core</source>
+        <source>Show information about Takser Token Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -475,13 +475,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Marycoin addresses to prove you own them</source>
-        <translation>Sign messages with your Marycoin addresses to prove you own them</translation>
+        <source>Sign messages with your Takser Token addresses to prove you own them</source>
+        <translation>Sign messages with your Takser Token addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Marycoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Marycoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Takser Token addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Takser Token addresses</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -505,22 +505,22 @@
     </message>
     <message>
         <location line="-314"/>
-        <source>Marycoin Core</source>
-        <translation type="unfinished">Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation type="unfinished">Takser Token Core</translation>
     </message>
     <message>
         <location line="+160"/>
-        <source>Request payments (generates QR codes and marycoin: URIs)</source>
+        <source>Request payments (generates QR codes and tksr: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+38"/>
-        <source>&amp;About Marycoin Core</source>
+        <source>&amp;About Takser Token Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Modify configuration options for Marycoin Core</source>
+        <source>Modify configuration options for Takser Token Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a marycoin: URI or payment request</source>
+        <source>Open a tksr: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -545,15 +545,15 @@
     </message>
     <message>
         <location line="+2"/>
-        <source>Show the Marycoin Core help message to get a list with possible Marycoin command-line options</source>
+        <source>Show the Takser Token Core help message to get a list with possible Takser Token command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location line="+329"/>
-        <source>%n active connection(s) to Marycoin network</source>
+        <source>%n active connection(s) to Takser Token network</source>
         <translation>
-            <numerusform>%n active connection to Marycoin network</numerusform>
-            <numerusform>%n active connections to Marycoin network</numerusform>
+            <numerusform>%n active connection to Takser Token network</numerusform>
+            <numerusform>%n active connections to Takser Token network</numerusform>
         </translation>
     </message>
     <message>
@@ -1041,8 +1041,8 @@
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Marycoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Marycoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Takser Token address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Takser Token address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1087,8 +1087,8 @@
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+36"/>
-        <source>Marycoin Core</source>
-        <translation type="unfinished">Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation type="unfinished">Takser Token Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1103,7 +1103,7 @@
     </message>
     <message>
         <location line="+5"/>
-        <source>About Marycoin Core</source>
+        <source>About Takser Token Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1166,17 +1166,17 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Marycoin Core.</source>
+        <source>Welcome to Takser Token Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Marycoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Takser Token Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Marycoin Core will download and store a copy of the Marycoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Takser Token Core will download and store a copy of the Takser Token block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1191,8 +1191,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+86"/>
-        <source>Marycoin Core</source>
-        <translation type="unfinished">Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation type="unfinished">Takser Token Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <location line="+45"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Marycoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Takser Token Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1335,12 +1335,12 @@
     </message>
     <message>
         <location line="-153"/>
-        <source>Automatically start Marycoin Core after logging in to the system.</source>
+        <source>Automatically start Takser Token Core after logging in to the system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Marycoin Core on system login</source>
+        <source>&amp;Start Takser Token Core on system login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1375,8 +1375,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Marycoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Takser Token client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1385,7 +1385,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Connect to the Marycoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the Takser Token network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1440,7 +1440,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Marycoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Takser Token network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@
     <message>
         <location line="+59"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Marycoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Takser Token network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1685,7 +1685,7 @@
     </message>
     <message>
         <location line="-402"/>
-        <source>Cannot start marycoin: click-to-pay handler</source>
+        <source>Cannot start tksr: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1695,7 +1695,7 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Marycoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Takser Token address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1787,7 +1787,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+118"/>
-        <source>Enter a Marycoin address (e.g. %1)</source>
+        <source>Enter a Takser Token address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1962,7 +1962,7 @@
     </message>
     <message>
         <location line="+48"/>
-        <source>Open the Marycoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Takser Token Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2170,7 +2170,7 @@
     </message>
     <message>
         <location line="+74"/>
-        <source>Welcome to the Marycoin Core RPC console.</source>
+        <source>Welcome to the Takser Token Core RPC console.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2276,7 +2276,7 @@
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Marycoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Takser Token network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2570,7 +2570,7 @@
     <message>
         <location line="+30"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for marycoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for Takser Token transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2776,7 +2776,7 @@
     </message>
     <message>
         <location line="+236"/>
-        <source>Warning: Invalid Marycoin address</source>
+        <source>Warning: Invalid Takser Token address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2841,7 +2841,7 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>The Marycoin address to send the payment to</source>
+        <source>The Takser Token address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2898,7 +2898,7 @@
     </message>
     <message>
         <location line="+47"/>
-        <source>A message that was attached to the marycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Marycoin network.</source>
+        <source>A message that was attached to the tksr: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Takser Token network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2918,7 +2918,7 @@
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+78"/>
-        <source>Marycoin Core is shutting down...</source>
+        <source>Takser Token Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2946,7 +2946,7 @@
     </message>
     <message>
         <location line="+18"/>
-        <source>The Marycoin address to sign the message with</source>
+        <source>The Takser Token address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2988,8 +2988,8 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Marycoin address</source>
-        <translation>Sign the message to prove you own this Marycoin address</translation>
+        <source>Sign the message to prove you own this Takser Token address</source>
+        <translation>Sign the message to prove you own this Takser Token address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3019,13 +3019,13 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>The Marycoin address the message was signed with</source>
+        <source>The Takser Token address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Marycoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Marycoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Takser Token address</source>
+        <translation>Verify the message to ensure it was signed with the specified Takser Token address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3113,12 +3113,12 @@
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+41"/>
-        <source>Marycoin Core</source>
-        <translation type="unfinished">Marycoin Core</translation>
+        <source>Takser Token Core</source>
+        <translation type="unfinished">Takser Token Core</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>The Marycoin Core developers</source>
+        <source>The Takser Token Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3747,7 +3747,7 @@
     </message>
 </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+289"/>
         <source>Options:</source>
@@ -3785,7 +3785,7 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Marycoin Core will not work properly.</source>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Takser Token Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3895,7 +3895,7 @@
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. Marycoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Takser Token Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4190,7 +4190,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Cannot obtain a lock on data directory %s. Marycoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Takser Token Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4310,12 +4310,12 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Copyright (C) 2009-%i The Marycoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Takser Token Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Marycoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Takser Token Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4335,7 +4335,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Marycoin Core is shutting down.</source>
+        <source>Initialization sanity check failed. Takser Token Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4485,7 +4485,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Wallet needed to be rewritten: restart Marycoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Takser Token Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

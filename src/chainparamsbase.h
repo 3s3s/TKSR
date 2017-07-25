@@ -9,8 +9,8 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between marycoin-cli and marycoind)
- * of a given instance of the Marycoin system.
+ * CBaseChainParams defines the base parameters (shared between tksr-cli and tksrd)
+ * of a given instance of the Takser Token system.
  */
 class CBaseChainParams
 {

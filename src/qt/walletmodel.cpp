@@ -232,7 +232,7 @@ WalletModel::SendCoinsReturn WalletModel::prepareTransaction(WalletModelTransact
             total += subtotal;
         }
         else
-        {   // User-entered marycoin address / amount:
+        {   // User-entered Takser Token address / amount:
             if(!validateAddress(rcp.address))
             {
                 return InvalidAddress;

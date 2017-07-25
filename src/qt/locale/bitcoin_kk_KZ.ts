@@ -110,7 +110,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Marycoin</source>
+        <source>Takser Token</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -440,7 +440,7 @@
     </message>
     </context>
 <context>
-    <name>marycoin-core</name>
+    <name>tksr-core</name>
     <message>
         <source>Information</source>
         <translation>Информация</translation>
